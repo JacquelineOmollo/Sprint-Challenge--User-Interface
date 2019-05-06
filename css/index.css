@@ -272,8 +272,8 @@ header nav a {
 
 .container-about {
   display: flex;
-  border-top: 1px dotted black;
-  border-bottom: 1px dotted black;
+  border-top: 1px dashed black;
+  border-bottom: 1px dashed black;
 }
 
 .container-row-one {
@@ -283,7 +283,7 @@ header nav a {
 
 .container-about-two {
   display: flex;
-  border-bottom: 1px dotted black;
+  border-bottom: 1px dashed black;
 }
 
 .container-row-two {
